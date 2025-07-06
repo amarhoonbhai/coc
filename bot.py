@@ -8,7 +8,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '7699253029:AAENftPahycoCHwO75VBB-Sillywy0mnPB8'
 
 # Load Donut model and processor
 processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base-finetuned-docvqa")
