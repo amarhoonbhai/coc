@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '7699253029:AAHrJ2xut3-ertRJSvp696oxpyjy8cfm2sA'
 OWNER_ID = 7775062794
 
 user_access = {}
